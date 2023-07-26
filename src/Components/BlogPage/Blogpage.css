@@ -1,0 +1,37 @@
+.blogpage {
+  margin: 2%;
+  padding: 2%;
+  color: black;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#path {
+  font-size: 12px;
+  color: #8c8c8c;
+  margin: 0;
+}
+
+.title-container h1 {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.disc {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.blank {
+  width: 100%;
+  content: "";
+  background-color: black;
+  height: 2px;
+}

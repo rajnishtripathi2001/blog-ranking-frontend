@@ -1,0 +1,22 @@
+.blog-container{
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+}
+
+.blog{
+    background-color: rgb(155, 160, 160);
+    margin: 2% 0;
+    min-height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 25px;
+}
+
+.views p{
+    margin: 0;
+    font-size: 14px;
+}
